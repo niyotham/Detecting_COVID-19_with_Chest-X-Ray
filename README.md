@@ -1,4 +1,4 @@
-# Detecting_COVID-19_with_Chest-X-Ray
+# Detecting COVID-19 with_Chest-X-Ray
 Detecting COVID-19 with Chest X Ray using PyTorch
 *****COVID-19 CHEST X-RAY DATABASE
 
